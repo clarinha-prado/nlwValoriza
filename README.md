@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NLW Valoriza
 
 ## Regras
@@ -23,3 +24,8 @@
   [ ] Não é permitido cadastrar elogios para usuários inválidos
 
   [ ] O usuário precisa estar autenticado na aplicação
+=======
+# nlwValoriza
+
+Node application ...
+>>>>>>> 99e8b94662b42ab0cd92c67fbed8dfde88521ed8
